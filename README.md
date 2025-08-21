@@ -43,7 +43,7 @@ Key features:
 
 ---
 
-## <font color='red'> Disclaimer</font>
+## <font color="red"> Disclaimer</font>
 All datasets in this repository are **synthetically generated** for demonstration purposes only.  
 They **do not represent any real financial institution’s data** and are not suitable for production use.  
 The aim is purely to illustrate the **IRB methodology, data preparation, feature engineering, and validation** steps in a transparent and reproducible way.

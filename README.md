@@ -55,7 +55,7 @@ In this prototype, certain aspects were **hard-coded** rather than parameterized
 For example:  
 - Instead of introducing a configurable variable such as `val_year = 2024` to dynamically control the validation year,  
   the year was hardcoded in parts of the workflow.  
-- A more **generalized and modular approach** would have enabled easier reuse of the pipeline for future validation years (e.g., 2025, 2026, …).  
+- A more **generalized and modular approach** would have enabled easier reuse of the pipeline for future validation years (2025, 2026, …).  
 
 This was a conscious trade-off made during the prototyping phase, as the focus was on demonstrating the **core IRB methodology and validation flow** rather than full automation.  
 However, in a production-ready setting, parameterization should be prioritized to ensure scalability and reusability across different validation cycles.  
